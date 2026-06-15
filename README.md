@@ -48,7 +48,7 @@ python rshell.py -i 10.10.14.5 -p 8008 -t php
 ## Installation
 
 ```bash
-git clone https://github.com/P0lSu/rshell-gen
+git clone https://github.com/P0lSu/RShell-gen
 cd rshell-gen
 python rshell.py --help
 ```
